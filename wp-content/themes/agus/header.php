@@ -69,14 +69,12 @@
                   <div class="navbar-trigger visible-xs">
                     <button type="button" data-toggle="collapse" data-target="#navbar-collapse-1" class="navbar-toggle"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
                   </div>
-                  
                   <nav class="navbar yamm">
                     <div id="navbar-collapse-1" class="navbar-collapse collapse">
                       <ul class="nav navbar-nav">
 						  <?php bootstrap_menu(); ?>
                       </ul>
                     </div>
-                   
                   </nav>
                   <!-- end nav-->
                 </div>
